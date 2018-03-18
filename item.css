@@ -1,0 +1,55 @@
+.item{
+  width: 300px;
+  height: 40px;
+  background-color:#FFB7DD;
+  margin:5px 0 0 0;
+  padding:3px;
+  line-height: 40px;
+  display:block;
+  cursor: pointer;/*改變滑鼠游標*/
+}
+.itemimg{
+  /*background-image:url(images/reaction.jpg);*/
+  background-size: 34px 34px;
+  width: 34px;
+  height: 34px;
+  display:inline-block;
+  background-repeat: no-repeat;
+}
+.itemword{
+  width:200px;
+  height:40px;
+  display: inline-block;
+  position: absolute;
+}
+.item2{
+  width: 400px;
+  height: 150px;
+  background-color:#FFB7DD;
+  margin:5px 0 0 0;
+  padding:3px;
+  line-height: 40px;
+  display:block;
+  cursor: pointer;/*改變滑鼠游標*/
+}
+.itemimg2{
+  /*background-image:url(images/reaction.jpg);*/
+  background-size: 200px 200px;
+  width: 200px;
+  height: 200px;
+  display:inline-block;
+  background-repeat: no-repeat;
+}
+#item{
+  color: #CC0000;
+  font-size: 28px;
+  font-family: '微軟正黑體 Light';
+  font-weight: bold;
+}
+#buy{
+  background-image:url(images/sc01.jpg);
+  background-size:40px 40px;
+  width:40px;
+  height:40px;
+  cursor: pointer;/*改變滑鼠游標*/
+}
