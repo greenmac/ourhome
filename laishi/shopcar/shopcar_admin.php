@@ -45,10 +45,10 @@
     <td colspan="10" align="center">購物車管理系統</td>
   </tr>
   <tr>
-    <td colspan="2" align="center" bgcolor="#FFFFCC"><a href="admin_item.php?insert=1">新增產品</a></td>
-    <td colspan="2" align="center" bgcolor="#FFFFCC"><a href="admin_item.php?insert2=1">新增數量</a></td>
-    <td colspan="2" align="center" bgcolor="#FFFFCC"><a href="admin_item.php?update=1">修改</a></td>
-    <td colspan="2" align="center" bgcolor="#FFFFCC"><a href="admin_item.php?select=1">查詢</a></td>
+    <td colspan="2" align="center" bgcolor="#FFFFCC"><a href="../item/item_admin.php?insert=1">新增產品</a></td>
+    <td colspan="2" align="center" bgcolor="#FFFFCC"><a href="../item/item_admin.php?insert2=1">新增數量</a></td>
+    <td colspan="2" align="center" bgcolor="#FFFFCC"><a href="../item/item_admin.php?update=1">修改</a></td>
+    <td colspan="2" align="center" bgcolor="#FFFFCC"><a href="../item/item_admin.php?select=1">查詢</a></td>
     <td align="center" bgcolor="#FFFFCC"></td>
     <td align="center" bgcolor="#FFFFCC"></td>
   </tr>
