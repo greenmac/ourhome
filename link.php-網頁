@@ -1,8 +1,0 @@
-<?php
-$link = @mysql_connect('sql209.byethost9.com','b9_20639599','mac50787','b9_20639599_ourhome');
-mysql_query("SET NAMES 'utf-8'");
-mysql_select_db('b9_20639599_ourhome',$link);
-if(!isset($_SESSION)){
-  session_start();
-}
-?>
